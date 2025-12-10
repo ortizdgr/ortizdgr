@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Myriam 👋
 
-<!--
-**ortizdgr/ortizdgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora Full Stack Jr con foco en frontend y UX/UI.
 
-Here are some ideas to get you started:
+- 🎓 Ingeniería en Computación e Informática + Diseño Gráfico  
+- 💻 Trabajo con **React, Vite, Firebase y Flask (Python)**  
+- 🌐 Experiencia en proyectos para servicios públicos y sistemas internos  
+- 🧠 Me interesan la accesibilidad web, el diseño de interfaces y el trabajo en equipo  
+- 🚀 Actualmente profundizando en **Angular y Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Stack principal
+
+- **Lenguajes:** JavaScript (ES6+), TypeScript (en aprendizaje), HTML5, CSS3  
+- **Frontend:** React, React Router, Tailwind CSS, Bootstrap, Zustand, Chart.js, Recharts  
+- **Backend & BBDD:** Firebase (Auth, Firestore, Storage), APIs REST, NoSQL (Firestore), Flask (Python)  
+- **Testing (básico):** Jest, React Testing Library  
+- **Herramientas:** Git/GitHub, Vite, Postman, VS Code, Figma  
+
+### 🚀 Proyectos destacados
+
+- **Plataforma de gestión para startups** – React, Firebase, Tailwind  
+- **Portales y trámites digitales para servicios públicos** – UX/UI, Design System  
+- **Sistema de monitoreo de ventiladores en faenas mineras (USACH)** – Flask (Python)  
+- **Kanban Dashboard accesible** – React, Zustand, Recharts  
+
