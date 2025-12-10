@@ -1,4 +1,4 @@
-# Hola, soy Myriam 👋
+# Hola, soy Myriam
 
 Desarrolladora Full Stack Jr con foco en frontend y UX/UI.
 
